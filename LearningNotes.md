@@ -18,6 +18,7 @@
 4. logic to update that state may be complex
 
 ## Installation
+- [Redux Installation Page](https://redux.js.org/introduction/installation)
 ```
 npm install @reduxjs/toolkit
 ```
@@ -32,4 +33,10 @@ npx create-next-app --example with-redux my-app
 View locally installed packages withotu every package's dependencies:
 ```
 npm list -g --depth=0
+```
+
+# Tutorial Commands
+Set up 
+```
+npx create-react-app redux-essentials-example --template redux
 ```
